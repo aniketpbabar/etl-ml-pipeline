@@ -1,0 +1,4 @@
+fintech_db.db
+models/*.pkl
+__pycache__/
+.pytest_cache/
